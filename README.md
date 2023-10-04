@@ -1,6 +1,6 @@
 
 # 👋 Hello! Welcome to my Github profile. 
-## My name is Rafael and my nickname is "Ninja"! <div> <img loading="lazy" height="300em" src="https://i.imgur.com/u07FniD.png"/> </div>
+## My name is Rafael and my nickname is "Ninja"! <div ><img loading="lazy" height="300em" src="https://i.imgur.com/u07FniD.png"/> </div>
 
 <div>
 <a href="https://github.com/rafalouzao">
