@@ -1,9 +1,10 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Rafael and my nickname is "Ninja"!
+
+# 👋 Hello! Welcome to my Github profile. 
+## My name is Rafael and my nickname is "Ninja"! <img loading="lazy" height="300em" src="https://i.imgur.com/u07FniD.png"/> 
 
 <div>
 <a href="https://github.com/rafalouzao">
-<img loading="lazy" src="https://i.imgur.com/u07FniD.png"/>
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalouzao&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=rafalouzao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
