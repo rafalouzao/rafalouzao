@@ -1,6 +1,7 @@
 
 # 👋 Hello! Welcome to my Github profile. 
-## My name is Rafael and my nickname is "Ninja"! <div ><img loading="lazy" height="300em" src="https://i.imgur.com/u07FniD.png"/> </div>
+## My name is Rafael and my nickname is "Ninja"! <div ><img loading="lazy" height="300em" src="https://i.imgur.com/u07FniD.png"/> </div> 
+
 
 
 <div align="center">  
@@ -12,6 +13,9 @@
 
 
 <!--
+Insta:
+<div align= "right"> <a href="https://instagram.com/rafalouzao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a></div>
+
 **rafalouzao/rafalouzao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
